@@ -1,6 +1,6 @@
 Hi there 👋
- ➤ About Me.
-• 👨🏼‍🎓 I am Axay, I'm a self-learn programmer working on my skills💡👨🏻‍💻.
+<br /> ➤ About Me.
+<br />• 👨🏼‍🎓 I am Axay, I'm a self-learn programmer working on my skills💡👨🏻‍💻.
 • 🌱 I’m currently learning Java, VS code, intellijIdea.
 • 👀 I’m looking for help with open-source contribution.
 • 💬 Ask me about nothing right now.
