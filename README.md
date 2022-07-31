@@ -1,5 +1,5 @@
-𝓗𝓮𝓵𝓵𝓸 𝓣𝓱𝓮𝓻𝓮👋
-<br />➤ 𝓐𝓫𝓸𝓾𝓽 𝓜𝓮.
+➤𝓗𝓮𝓵𝓵𝓸 𝓣𝓱𝓮𝓻𝓮👋
+<br />➤𝓐𝓫𝓸𝓾𝓽 𝓜𝓮.
 <br />• 👨🏼‍🎓 I am Axay, I'm a self-learn programmer working on my skills💡👨🏻‍💻.
 <br />• 🌱 I’m currently learning Java, VS code, intellijIdea.
 <br />• 👀 I’m looking for help with open-source contribution.
@@ -13,7 +13,7 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-<br />𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓜𝓮.
-<br />![Discord](https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
+<br />➤𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓜𝓮.
+<br />![Discord](https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)https://discord.com/channels/@me
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)https://www.linkedin.com/in/axaypranami/
+![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)https://twitter.com/_pranami
