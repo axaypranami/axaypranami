@@ -5,7 +5,7 @@
 <br />• 👀 I’m looking for help with open-source contribution.
 <br />• 💬 Ask me about nothing right now.
 <br />• 🤔 Intrest in : Songs 🎧, Biking 🏍️, Reading Books📚.
-<br />• 😄 Pronouns: He 👨‍💻.
+<br />• 😄 Pronouns: He/His 👨‍💻.
 <br />• ⚡ Fun fact: I'm on a mission to be a Full stack developer.
 <br />➤𝓣𝓮𝓬𝓱 𝓢𝓽𝓪𝓬𝓴.
 <br />![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
