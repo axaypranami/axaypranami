@@ -1,7 +1,7 @@
 ➤𝓗𝓮𝓵𝓵𝓸 𝓣𝓱𝓮𝓻𝓮👋
 <br />➤𝓐𝓫𝓸𝓾𝓽 𝓜𝓮.
 <br />• 👨🏼‍🎓 I am Axay, I'm a self-learn programmer working on my skills💡👨🏻‍💻.
-<br />• 🌱 I’m currently learning Java, VS code, intellijIdea.
+<br />• 🌱 I’m currently learning Web Development.
 <br />• 👀 I’m looking for help with open-source contribution.
 <br />• 💬 Ask me about nothing right now.
 <br />• 🤔 Intrest in : Songs 🎧, Biking 🏍️, Reading Books📚.
